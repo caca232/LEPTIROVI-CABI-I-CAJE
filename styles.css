@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f8ff;
+}
+
+.container {
+    text-align: center;
+}
+
+.butterflies {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.butterfly {
+    font-size: 100px;
+    margin: 0 20px;
+}
+
+.dialogue {
+    margin-top: 20px;
+    font-size: 24px;
+}
